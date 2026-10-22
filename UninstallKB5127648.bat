@@ -1,1 +1,1 @@
-wusa.exe /uninstall /kb:5127648 /quiet /norestart
+wusa.exe /uninstall /kb:5127648
